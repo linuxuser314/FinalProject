@@ -378,7 +378,7 @@ static void myLoop(){
         //enables/disables the precision factor
       case('P'):
         precisionFactor = currentMsg.val;
-        breal;
+        break;;
       default:
       break;
     }
