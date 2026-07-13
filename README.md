@@ -38,4 +38,4 @@ This was my first embedded project and my first time stepping away from standard
 I used AI as a tutor for this project to help me transition to using more C++ features over old-style C, debugging various issues, learning about the AVR architecture and register manipulation, and more. Overall, the project was quite fun and one of the things that has made me decide that I want to be a computer engineer.
 
 I apologize for the lack of schematics and detailed documentation - I pulled this final project out of my previous BoeBot projects almost entirely in one very long day. I am going back now to finish the documentation on it. Please let me know if you have any questions. Here is a picture of me with my final robot:
-![WALL-E inspired BoeBot robot](./images/robot.heif)
+![WALL-E inspired BoeBot robot](./images/robot.jpg)
